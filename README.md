@@ -16,7 +16,10 @@ BJIT-D-22-03013
 26-February-2023
 
 # Accepted on:
+30-May-2023
 
 # DOI:
+10.1007/s41870-023-01332-5
 
-
+# URL:
+https://link.springer.com/article/10.1007/s41870-023-01332-5
