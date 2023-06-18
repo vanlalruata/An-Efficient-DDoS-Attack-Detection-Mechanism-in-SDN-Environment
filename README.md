@@ -6,6 +6,9 @@ Traditional intrusion detection systems are insufficient to identify recent and 
 # Journal:
 International Journal of Information Technology
 
+# Publisher:
+Springer
+
 # Manuscript ID:
 BJIT-D-22-03013
 
