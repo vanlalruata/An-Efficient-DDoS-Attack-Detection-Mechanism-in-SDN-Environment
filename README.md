@@ -30,5 +30,5 @@ https://link.springer.com/article/10.1007/s41870-023-01332-5
 
 If you find this code and paper useful, kindly consider to cite from your valuable work.
 
-# Hot to cite
+# How to cite
 >> Hnamte, V., Hussain, J. An efficient DDoS attack detection mechanism in SDN environment. Int. j. inf. tecnol. (2023). https://doi.org/10.1007/s41870-023-01332-5
